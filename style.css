@@ -31,11 +31,26 @@ em strong {
     color: red;
 }
 
-.itens{
+.itens {
     font-style: italic;
 }
 
-.beneficios{
+.beneficios {
     backgound: #FFFFFF
     padding: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+    Vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagem-beneficios{
+    width: 50%
 }
