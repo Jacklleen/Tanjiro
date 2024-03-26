@@ -11,7 +11,7 @@ body {
 
 .principal {
     background: #CCCCCC;
-    podding: 30px;
+    padding: 30px;
 }
 
 h1 {
@@ -29,4 +29,13 @@ p {
 
 em strong {
     color: red;
+}
+
+.itens{
+    font-style: italic;
+}
+
+.beneficios{
+    backgound: #FFFFFF
+    padding: 20px;
 }
