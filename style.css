@@ -14,8 +14,12 @@ body {
     padding: 30px;
 }
 
-h1 {
-    text-align: center
+.titulo-principal {
+    padding-left: 20px;
+}
+
+.titulo-secundario{
+    text-align: center;
 }
 
 p {
@@ -38,10 +42,6 @@ em strong {
 .beneficios {
     backgound: #FFFFFF
     padding: 20px;
-}
-
-h2 {
-    text-align: center;
 }
 
 ul {
