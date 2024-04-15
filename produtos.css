@@ -43,3 +43,18 @@ nav a{
   padding: 30px 20px;
   box-sizing: border-box;
 }
+
+.produtos h2{
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.produtos-descricao{
+  font-size: 18px;
+}
+
+.produtos-preco{
+  font-size: 22px;
+  font-weight: bold;
+  margin-top: 10px;
+}
