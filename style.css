@@ -1,22 +1,24 @@
-* {
+*{
     margin: 0;
     padding: 0;
 }
 
-    body {}
+    body {
+        
+}
 
-    #banner {
-        width: 100%;
-    }
+#banner {
+    width: 100%;
+}
 
-    .principal {
-        background: #CCCCCC;
-        padding: 30px;
-    }
+.principal {
+    background: #CCCCCC;
+    padding: 30px;
+}
 
-    .titulo-principal {
-        padding-left: 20px;
-    }
+.titulo-principal {
+    padding-left: 20px;
+}
 
     .titulo-secundario {
         text-align: center;
